@@ -1,2 +1,2 @@
 # hadoop
-Hadoop project
+Hadoop development project
